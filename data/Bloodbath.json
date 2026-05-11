@@ -5,7 +5,7 @@
     "creators": ["Riot", "Michigun", "Etzer"],
     "verifier": "Naple",
     "verification": "https://www.youtube.com/watch?v=Mh2gQmlXY9Y",
-    "percentToQualify": "100",
+    "percentToQualify": 100,
     "password": "Free To Copy",
     "records": [
         {
