@@ -1,5 +1,5 @@
 {
-    "id": 57436521,
+    "id": 4957691,
     "name": "Windy Landscape",
     "author": "WOOGI1411",
     "creators": ["WOOGI1411"],
@@ -8,5 +8,13 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
+         {
+            "user": "Ziemniok",
+            "link": "https://youtu.be/placeholder",
+            "percent": 100,
+            "hz": 480
+        }
     ]
 }
+    
+
