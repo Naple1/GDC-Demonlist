@@ -8,7 +8,7 @@
     "percentToQualify": "100",
     "password": "Free To Copy",
     "records": [
-         {
+        {
             "user": "Ziemniok",
             "link": "https://youtu.be/placeholder",
             "percent": 100,
@@ -16,5 +16,3 @@
         }
     ]
 }
-    
-
